@@ -31,7 +31,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       height="30" width="40" alt="LinkedIn"/>
   </a>
- <a href="https://leetcode.com/u/raoyadav/" target="_blank">
+ <a href="https://leetcode.com/u/Sumit_Kumar7/" target="_blank">
   <img align="center"
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
        height="30" width="40" alt="LeetCode" />
