@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on ****  
 - 🌱 I’m learning **Full Stack Web Development Projects (MERN)**  
 - 💬 Ask me about **MongoDB**  
-- 📫 Reach me at **ksumitkumar90922@gmail.com**  
+- 📫 Reach me at **ksumit90922@gmail.com**  
 
 ---
 
