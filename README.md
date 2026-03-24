@@ -94,12 +94,12 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Stats**
  
 ### 📊 Top Languages  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkumar7tech&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit12948&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 🔝 Top Contributed Repos  
-![sumit GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravkumar7tech&show_icons=true&theme=radical)
+![sumit Kumar GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit12948&show_icons=true&theme=radical)
 ---
 
 <p align="center">
